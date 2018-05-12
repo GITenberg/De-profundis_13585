@@ -28,6 +28,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Oscar_Wilde
     - http://en.wikipedia.org/wiki/Oscar_Wilde
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13585#De-profundis
 gutenberg_issued: '2004-10-03'
 gutenberg_type: Text
 identifiers:
